@@ -1,0 +1,1 @@
+requests==2.19.1pandas==0.23.3SQLAlchemy==1.2.10numpy==1.14.5progressbar2==3.38.0pulp==1.6.8scikit_learn==0.19.2
